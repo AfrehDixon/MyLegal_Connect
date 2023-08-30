@@ -5,10 +5,10 @@ export default function Choose() {
 		<div>
 			<div class="feature">
 				<div class="container">
-					<div class="row">
+				  <div class="row"> 
 						<div class="col-md-7">
 							<div class="section-header">
-								<h2>Why Choose Us</h2>
+								<h2>Why Choose US</h2>
 							</div>
 							<div class="row align-items-center feature-item">
 								<div class="col-5">
